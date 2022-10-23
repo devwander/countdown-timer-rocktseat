@@ -121,3 +121,21 @@ body {
         width: 45%;
     }
 }
+
+.theme-container {
+    width: 4rem;
+    height: 4rem;
+    background: var(--moon-button);
+    border-radius: 50%;
+    position: absolute;
+    top: 4rem;
+    right: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.2s;
+  }
+  
+  .theme-container:hover {
+    scale: 1.1;
+  }

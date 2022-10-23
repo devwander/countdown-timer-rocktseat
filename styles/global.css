@@ -4,6 +4,9 @@
     --purple: #6c63ff;
     --light-grey: #c8c8c8;
     --text-color: #9c9ab6;
+    --background-dark: #212529;
+    --sun-button: rgba(246, 246, 252, 1);
+    --moon-button: rgba(246, 246, 252, 0.3);
 }
 
 * {
