@@ -24,7 +24,7 @@ function setTheme() {
 function setLight() {
   body.style.background = "white";
   body.style.transition = "0.5s"
-  themeIcon.src = "./assets/moon.svg";
+  themeIcon.src = "./assets/sun.svg";
   container.style.background = "var(--sun-button)"
 }
 
