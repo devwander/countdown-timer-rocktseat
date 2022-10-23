@@ -24,13 +24,13 @@ function setTheme() {
 function setLight() {
   body.style.background = "white";
   body.style.transition = "0.5s"
-  themeIcon.src = "../assets/sun.svg";
+  themeIcon.src = "./assets/moon.svg";
   container.style.background = "var(--sun-button)"
 }
 
 function setDark() {
   body.style.background = "var(--background-dark)";
   body.style.transition = "0.5s"
-  themeIcon.src = "../assets/moon.svg";
+  themeIcon.src = "./assets/moon.svg";
   container.style.background = "var(--moon-button)"
 }
