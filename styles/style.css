@@ -125,7 +125,7 @@ body {
 .theme-container {
     width: 4rem;
     height: 4rem;
-    background: var(--moon-button);
+    background: var(--sun-button);
     border-radius: 50%;
     position: absolute;
     top: 4rem;
